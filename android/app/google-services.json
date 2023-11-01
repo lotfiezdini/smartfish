@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798274124934",
+    "project_id": "windy-5c3d2",
+    "storage_bucket": "windy-5c3d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798274124934:android:22b033b82294c7145be507",
+        "android_client_info": {
+          "package_name": "com.example.windy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798274124934-mu0so4e0qtptgag111e21grqrao2smov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5DDJ-uMP27j_Bb64-o23vTAsnf8XjgbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798274124934-mu0so4e0qtptgag111e21grqrao2smov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
